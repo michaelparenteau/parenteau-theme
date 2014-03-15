@@ -6,4 +6,4 @@ on the 'spolsky theme. **Requires Emacs 24 or later**
 
 Screenshot:
 
-[screenshot](parenteau-dark-theme.jpg)
+![screenshot](parenteau-dark-theme.jpg)
